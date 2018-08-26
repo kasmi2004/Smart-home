@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="toggle_on">on</string>
+    <string name="toggle_off">off</string>
+
+    <string name="led">LED</string>
+    <string name="fan">Fan</string>
+    <string name="door">Door Alert</string>
+    <string name="door_open">Open</string>
+    <string name="gass">Gass Status:</string>
+    <string name="gass_warning">No Warnings</string>
+    <string name="pir">Motion Alert</string>
+    <string name="motion">you will get notification</string>
+    <string name="min_temp">min temp</string>
+    <string name="register_uid">Register</string>
+    <string name="delete_uid">Delete</string>
+    <string name="uid">RFID serial</string>
+    <string name="door_remote">door remote</string>
+    <string name="key">Enter key</string>
+    <string name="channel">chn</string>
+    <string name="save">save</string>
+
+    <string name="temp">Temperature Chart</string>
+    <string name="humidity">Humidity Chart</string>
+    <string name="update">Update Chart</string>
+
+
+    <string name="hello">Hello!</string>
+    <string name="turn_leds_on">LEDs</string>
+    <string name="turn_fan_on">Fan</string>
+    <string name="open_the_door">Open the door</string>
+    <string name="open">Open</string>
+
+
+    <string-array name="led">
+        <item> Red </item>
+        <item> Blue </item>
+        <item> Green </item>
+    </string-array>
+
+    <string-array name="fan">
+        <item> Automatic </item>
+        <item> Manual </item>
+    </string-array>
+
+
+
+
+
+
+</resources>
