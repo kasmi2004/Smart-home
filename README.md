@@ -11,7 +11,7 @@ In this project a smart home is designed and built using Raspberry pi3. The foll
 
 The code is written in Python language. An android application is also designed and created so that the hardware could be controlled via a smart phone, through a local platform called Thing Talk.
 
-![](https://ibb.co/mRLVDU)
+![1](https://user-images.githubusercontent.com/26414770/44631020-70013900-a97b-11e8-8c85-43f93d957057.JPG)
 
 ### The house lights
 The house has 3 RGB LEDS. Using the mobile app, the LEDs can be controlled. They can be turned on or off and their colors could be changed to green, blue or yellow. 
@@ -31,4 +31,5 @@ The RFID is used right by the door so that the house owner can open the door usi
 
 For the next step, we are working on a asmart city project where we have a few smart houses and we connect them to eachother using Zigbee.
 
-![](https://ibb.co/eNHz7p)
+![2](https://user-images.githubusercontent.com/26414770/44631029-88715380-a97b-11e8-8819-88d582039975.jpg)
+
